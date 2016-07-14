@@ -14,7 +14,7 @@ c) event-timex: the TE3 platinum data for event-timex relations and the relevant
 
 d) event-event: the TE3 platinum data for event-event relations and the relevant systems' output
 
-e) the original TE3 script for running the evaluation (directory TE3system_out/tools)
+- The folder tools: contains the original TE3 script for running the evaluation
 
 
 
