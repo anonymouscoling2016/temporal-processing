@@ -1,0 +1,32 @@
+This file contains an overview of the features used by best performing systems at TempEval-3.
+
+Feature for Task B (event detection, event classification, tense classification, aspect classification)
+
+|Feature Type |  Event |  Class | Tense | Aspect |
+|-------------|--------|--------|-------|--------|
+|Token | 4 | 3 | 3 | 3 |
+--- | --- | --- | --- | --- |
+Token suffixes and affixes & 2 & 1 & 1 & 1 \\
+Lemma & 3 & 3 & 3 & 3 & Constituency parsing & 2 & 1 & 1 & 1  \\
+Stem & 1 & 1 & 0 & 0 & Chunks%~\tablefootnote{It includes contextual windows and grammatical classes.} 
+& 1 & 1 & 1 & 1\\
+POS%~\tablefootnote{It includes both coarse grained and fine grained POS.} 
+& 4 & 4 & 3 & 3 & Governing verb lemma & 3 & 2 & 2 & 2 \\
+POS window & 3 & 2 & 2 & 2 & Dependency parsing~\tablefootnote{It includes tree paths and typed dependency paths.} & 3 & 2 & 2 & 2 \\
+Token window~\tablefootnote{Sizes of the window vary between a minimum of 2 up to 15 tokens following and preceding the target elements. %It also includes verb only windows.
+} & 3 & 2 & 3 & 4 & Token's context polarity & 1 & 1 & 1 & 1   \\
+Lemma window & 2 & 1 & 1 & 1 & WordNet hypernyms & 2 & 2 & 1 & 1 \\
+%Token suffixes and affixes & 2 & 1 & 1 & 1 \\
+%Constituency parsing data & 2 & 1 & 1 & 1 \\
+%Chunks\tablefootnote{It includes contextual windows and grammatical classes.} & 1 & 1 & 1 & 1\\
+%Governing verb lemma & 3 & 2 & 2 & 2 \\
+%Dependency parsing data\tablefootnote{It includes tree paths and typed dependency paths.} & 3 & 2 & 2 & 2 \\
+%Token's context polarity & 1 & 1 & 1 & 1 \\
+WordNet synonyms & 1 & 0 & 0 & 0 & WordNet other relations & 2 & 1 & 1 & 1 \\ 
+%WordNet hypernyms & 2 & 2 & 1 & 1 & WordNet other relations & 2 & 1 & 1 & 1 \\
+%WordNet other relations & 2 & 1 & 1 & 1 \\
+Semantic Roles & 2 & 1 & 1 & 1 & & & & & \\
+
+
+
+
