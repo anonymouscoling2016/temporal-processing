@@ -2,7 +2,7 @@
 
 This file contains a description of the data in this GitHub repository as a support material for the paper "Temporal Processing: When and What Is Going Wrong?".
 
-- The folderTE3system_out: contains all systems outputs in the orignal TimeML format. 
+- The folder TE3system_out: contains all systems outputs in the orignal TimeML format. 
 
 - The folder gold_subsets: contains the following subsets of gold data for the evaluation: 
 
