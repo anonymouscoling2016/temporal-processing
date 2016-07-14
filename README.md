@@ -16,5 +16,8 @@ This file contains a description of the data in this GitHub repository as a supp
 
 - The folder tools: contains the original TE3 script for running the evaluation
 
+- Feature sets for Task B and Task C of the best systems which participated to TempEval-3 are illutrsted in TE3_systems_features
+
+
 
 
