@@ -1,12 +1,30 @@
 This file contains an overview of the features used by best performing systems at TempEval-3.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
+
 Feature for Task B (event detection, event classification, tense classification, aspect classification)
 
 |Feature Type |  Event |  Class | Tense | Aspect |
 |-------------|--------|--------|-------|--------|
-|Token | 4 | 3 | 3 | 3 |
---- | --- | --- | --- | --- |
-Token suffixes and affixes & 2 & 1 & 1 & 1 \\
+|Token        | 4      | 3      | 3     | 3      |
+|Token suffixes and affixes        | 4      | 3      | 3     | 3      |
+
+
+
+
+
+
+
+
+
+
+ & 2 & 1 & 1 & 1 \\
 Lemma & 3 & 3 & 3 & 3 & Constituency parsing & 2 & 1 & 1 & 1  \\
 Stem & 1 & 1 & 0 & 0 & Chunks%~\tablefootnote{It includes contextual windows and grammatical classes.} 
 & 1 & 1 & 1 & 1\\
