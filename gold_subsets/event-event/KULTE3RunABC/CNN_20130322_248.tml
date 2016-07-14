@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+  <DOCID>CNN_20130322_248</DOCID>
+  <DCT>
+    <TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3>
+  </DCT>
+  <TITLE>FAA to close 149 regional airport control towers, spare 40 others</TITLE>
+  <TEXT>
+
+The FAA on <TIMEX3 tid="t11297" type="DATE" value="2013-03-22">Friday</TIMEX3> <EVENT eid="e11298" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">announced</EVENT> it will <EVENT eid="e11299" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">close</EVENT> 149 regional airport control towers because of forced spending cuts -- <EVENT eid="e11300" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">sparing</EVENT> 40 others that the FAA had been <EVENT eid="e11301" class="I_STATE" tense="PAST" aspect="NONE" pos="VERB">expected</EVENT> to shutter.
+
+A four-week, <EVENT eid="e11303" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">phased</EVENT> <EVENT eid="e11304" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">closure</EVENT> of the 149 control towers will <EVENT eid="e11305" class="ASPECTUAL" tense="FUTURE" aspect="NONE" pos="VERB">begin</EVENT> on <TIMEX3 tid="t11302" type="DATE" value="2013-04-07">April 7</TIMEX3>, the FAA <EVENT eid="e11306" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>.
+
+The FAA had been <EVENT eid="e11307" class="I_STATE" tense="PAST" aspect="NONE" pos="VERB">expected</EVENT> to <EVENT eid="e11308" class="REPORTING" tense="NONE" aspect="NONE" pos="VERB">announce</EVENT> the <EVENT eid="e11309" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">closure</EVENT> of 189 low- or moderate-volume towers <EVENT eid="e11310" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">staffed</EVENT> by contractors. Before <TIMEX3 tid="t11311" type="DATE" value="2013-03-22">Friday</TIMEX3>'s <EVENT eid="e11312" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">announcement</EVENT>, it <EVENT eid="e11313" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> it would <EVENT eid="e11314" class="I_STATE" tense="FUTURE" aspect="NONE" pos="VERB">consider</EVENT> <EVENT eid="e11315" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">keeping</EVENT> a tower open if the airport <EVENT eid="e11316" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">convinces</EVENT> the agency it is in the "national interest" to <EVENT eid="e11317" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">do</EVENT> so.
+
+By congressional mandate, the FAA must <EVENT eid="e11319" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">cut</EVENT> nearly $600 million from its nearly $48 billion budget <TIMEX3 tid="t11318" type="DATE" value="2013">this fiscal year</TIMEX3>. Because the majority of its 47,000 employees are air traffic controllers, it is impossible to <EVENT eid="e11320" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">cut</EVENT> its budget without <EVENT eid="e11321" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">affecting</EVENT> controllers, the agency <EVENT eid="e11322" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">says</EVENT>.
+
+</TEXT>
+  <MAKEINSTANCE eventID="e11298" eiid="ei11323" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11299" eiid="ei11325" tense="FUTURE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11300" eiid="ei11327" tense="FUTURE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11301" eiid="ei11329" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11303" eiid="ei11331" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11304" eiid="ei11333" tense="NONE" aspect="NONE" pos="NOUN"/>
+  <MAKEINSTANCE eventID="e11305" eiid="ei11335" tense="FUTURE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11306" eiid="ei11337" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11307" eiid="ei11339" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11308" eiid="ei11341" tense="NONE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11309" eiid="ei11343" tense="NONE" aspect="NONE" pos="NOUN"/>
+  <MAKEINSTANCE eventID="e11310" eiid="ei11345" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11312" eiid="ei11347" tense="NONE" aspect="NONE" pos="NOUN"/>
+  <MAKEINSTANCE eventID="e11313" eiid="ei11349" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11314" eiid="ei11351" tense="FUTURE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11315" eiid="ei11353" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11316" eiid="ei11355" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11317" eiid="ei11357" tense="NONE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11319" eiid="ei11359" tense="FUTURE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11320" eiid="ei11361" tense="NONE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11321" eiid="ei11363" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11322" eiid="ei11365" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <TLINK lid="l11368" relType="DURING" eventInstanceID="ei11327" relatedToEventInstance="ei11323"/>
+  <TLINK lid="l11369" relType="BEFORE" eventInstanceID="ei11323" relatedToEventInstance="ei11325"/>
+  <TLINK lid="l11370" relType="AFTER" eventInstanceID="ei11325" relatedToEventInstance="ei11329"/>
+  <TLINK lid="l11375" relType="BEFORE" eventInstanceID="ei11343" relatedToEventInstance="ei11341"/>
+  <TLINK lid="l11380" relType="BEFORE" eventInstanceID="ei11323" relatedToEventInstance="ei11349"/>
+  <TLINK lid="l11382" relType="BEFORE" eventInstanceID="ei11323" relatedToEventInstance="ei11359"/>
+  <TLINK lid="l11384" relType="AFTER" eventInstanceID="ei11359" relatedToEventInstance="ei11365"/>
+</TimeML>

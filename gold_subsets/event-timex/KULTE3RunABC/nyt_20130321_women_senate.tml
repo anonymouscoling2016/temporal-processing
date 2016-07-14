@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+  <DOCID>nyt_20130321_women_senate</DOCID>
+  <DCT>
+    <TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3>
+  </DCT>
+  <TITLE>Once Few, Women Hold More Power in Senate</TITLE>
+  <TEXT><TIMEX3 tid="t11950" type="DURATION" value="PT1H">An hour</TIMEX3> before her colleagues <EVENT eid="e11951" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">gathered</EVENT> for their first <EVENT eid="e11952" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">vote</EVENT> of a new Congress, Senator Kelly Ayotte <EVENT eid="e11953" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">slipped</EVENT> into an empty Senate chamber to <EVENT eid="e11954" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">savor</EVENT> the grandeur of her legislative home. As Ms. Ayotte, a freshman Republican from New Hampshire, <EVENT eid="e11955" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">sat</EVENT> down at the wooden desk where generations of lawmakers from her state had <EVENT eid="e11956" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">cast</EVENT> their votes, a doorman <EVENT eid="e11957" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">marched</EVENT> toward her with purpose.
+
+The desks, he sternly <EVENT eid="e11958" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">told</EVENT> her, were for senators only.
+
+Ms. Ayotte's induction that <TIMEX3 tid="t11959" type="DATE" value="2013-04-21">January day</TIMEX3> in <TIMEX3 tid="t11960" type="DATE" value="2011">2011</TIMEX3> into the most rarefied ranks of the nation's political class, female senators, had <EVENT eid="e11961" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">begun</EVENT>. "The desk thing <EVENT eid="e11962" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">really</EVENT> stuck with me," Ms. <EVENT eid="e11963" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">Ayotte</EVENT> said. "There still just aren't that many of us."
+
+In <TIMEX3 tid="t11964" type="DURATION" value="P90Y">the 90 years</TIMEX3> since Rebecca Felton of Georgia <EVENT eid="e11966" class="STATE" tense="PAST" aspect="NONE" pos="VERB">became</EVENT> the first woman in the United States Senate - <EVENT eid="e11967" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">sworn</EVENT> in for <TIMEX3 tid="t11965" type="TIME" value="2013-03-21T00:00">a mere 24 hours</TIMEX3> - women <EVENT eid="e11968" class="STATE" tense="PRESENT" aspect="NONE" pos="VERB">remain</EVENT> an anomaly in the upper chamber. But with 20 female senators now in office, an all-time high, women have <EVENT eid="e11970" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">morphed</EVENT> from the curiosity they were for much of <TIMEX3 tid="t11969" type="DATE" value="0001">the 20th century</TIMEX3> into an important new force on key committees and legislation.
+
+A record nine women now <EVENT eid="e11971" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">lead</EVENT> committees, including some of the most powerful ones. For the first time there is a woman - Senator Barbara A. Mikulski, a Maryland Democrat - in charge of the Senate Appropriations Committee, which <EVENT eid="e11972" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dispenses</EVENT> billions of dollars annually throughout the government and has long been particularly <EVENT eid="e11973" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">dominated</EVENT> by men. Senator Patty Murray, a Washington Democrat, is the first chairwoman of the Budget Committee and is <EVENT eid="e11974" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">charged</EVENT> with <EVENT eid="e11975" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">shaping</EVENT> the Democratic strategy in the fiscal <EVENT eid="e11976" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="NOUN">battle</EVENT> <EVENT eid="e11977" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dominating</EVENT> Capitol Hill.
+
+One of the biggest bills to <EVENT eid="e11979" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">pass</EVENT> the Senate <TIMEX3 tid="t11978" type="DATE" value="2012">last year</TIMEX3> was farm legislation <EVENT eid="e11980" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">led</EVENT> by Senator Debbie Stabenow, a Michigan Democrat who <EVENT eid="e11981" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">presides</EVENT> over the agriculture committee. Senator Barbara Boxer, the California Democrat who is chairwoman of the Environment and Public Works Committee, <EVENT eid="e11982" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">shepherded</EVENT> the highway bill.
+
+"We are <EVENT eid="e11983" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">growing</EVENT> in number," <EVENT eid="e11984" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> Senator Amy Klobuchar, Democrat of Minnesota. "But more importantly, we <EVENT eid="e11985" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">are</EVENT> growing in our power. When I first <EVENT eid="e11987" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">started</EVENT> <TIMEX3 tid="t11986" type="DATE" value="2007">just six years ago</TIMEX3>, it was unusual to have a woman <EVENT eid="e11988" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">managing</EVENT> a bill."
+
+Just as important, even male senators <EVENT eid="e11989" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">say</EVENT>, is the potential the women <EVENT eid="e11990" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">hold</EVENT> for <EVENT eid="e11991" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">changing</EVENT> the tenor of the Senate and <EVENT eid="e11992" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">pushing</EVENT> for <EVENT eid="e11993" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="NOUN">compromise</EVENT> in the highly partisan atmosphere on Capitol Hill.
+
+"I don't <EVENT eid="e11994" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">want</EVENT> to <EVENT eid="e11995" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">generalize</EVENT>, because this isn't true of all of them, but they tend to be interested in <EVENT eid="e11996" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">finding</EVENT> common ground," <EVENT eid="e11997" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> Senator Rob Portman, Republican of Ohio. "So <EVENT eid="e11998" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">I</EVENT> think it's going to have, and is having, a <EVENT eid="e11999" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="NOUN">positive</EVENT> impact on the Senate."
+
+While partisan division is the central characteristic of the modern Congress, women have <EVENT eid="e12000" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">begun</EVENT> to <EVENT eid="e12001" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">crack</EVENT> away at the gridlock by <EVENT eid="e12002" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">forming</EVENT> coalitions that have surprised leaders of both parties. Senator Kirsten E. Gillibrand, Democrat of New York, and Senator Susan Collins, Republican of Maine, <EVENT eid="e12004" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">led</EVENT> the repeal in the Senate of "don't <EVENT eid="e12005" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">ask</EVENT>, don't <EVENT eid="e12006" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">tell</EVENT>" in <TIMEX3 tid="t12003" type="DATE" value="2010">2010</TIMEX3>, <EVENT eid="e12007" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">allowing</EVENT> gay men and women to <EVENT eid="e12008" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">serve</EVENT> openly in the military.
+
+<TIMEX3 tid="t12009" type="DATE" value="2013">This year</TIMEX3>, all four of the female Senate Republicans <EVENT eid="e12010" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">split</EVENT> with their party and <EVENT eid="e12011" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">voted</EVENT> with Senate Democrats to reauthorize the Violence Against Women Act, which had <EVENT eid="e12012" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">lapsed</EVENT> during the last Congress.
+
+</TEXT>
+  <MAKEINSTANCE eventID="e11951" eiid="ei12013" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11952" eiid="ei12015" tense="NONE" aspect="NONE" pos="NOUN"/>
+  <MAKEINSTANCE eventID="e11953" eiid="ei12017" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11954" eiid="ei12019" tense="NONE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11955" eiid="ei12021" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11956" eiid="ei12023" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11957" eiid="ei12025" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11958" eiid="ei12027" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11961" eiid="ei12029" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11962" eiid="ei12031" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11963" eiid="ei12033" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11966" eiid="ei12035" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11967" eiid="ei12037" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11968" eiid="ei12039" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11970" eiid="ei12041" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11971" eiid="ei12043" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11972" eiid="ei12045" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11973" eiid="ei12047" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11974" eiid="ei12049" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11975" eiid="ei12051" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11976" eiid="ei12053" tense="PRESENT" aspect="NONE" pos="NOUN"/>
+  <MAKEINSTANCE eventID="e11977" eiid="ei12055" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11979" eiid="ei12057" tense="NONE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11980" eiid="ei12059" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11981" eiid="ei12061" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11982" eiid="ei12063" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11983" eiid="ei12065" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11984" eiid="ei12067" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11985" eiid="ei12069" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11987" eiid="ei12071" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11988" eiid="ei12073" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11989" eiid="ei12075" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11990" eiid="ei12077" tense="NONE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11991" eiid="ei12079" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11992" eiid="ei12081" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11993" eiid="ei12083" tense="PRESENT" aspect="NONE" pos="NOUN"/>
+  <MAKEINSTANCE eventID="e11994" eiid="ei12085" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11995" eiid="ei12087" tense="NONE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11996" eiid="ei12089" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11997" eiid="ei12091" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11998" eiid="ei12093" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e11999" eiid="ei12095" tense="PRESENT" aspect="NONE" pos="NOUN"/>
+  <MAKEINSTANCE eventID="e12000" eiid="ei12097" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12001" eiid="ei12099" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12002" eiid="ei12101" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12004" eiid="ei12103" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12005" eiid="ei12105" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12006" eiid="ei12107" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12007" eiid="ei12109" tense="PRESENT" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12008" eiid="ei12111" tense="NONE" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12010" eiid="ei12113" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12011" eiid="ei12115" tense="PAST" aspect="NONE" pos="VERB"/>
+  <MAKEINSTANCE eventID="e12012" eiid="ei12117" tense="PAST" aspect="NONE" pos="VERB"/>
+  <TLINK lid="l12124" relType="DURING_INV" eventInstanceID="ei12029" relatedToTime="t11959"/>
+  <TLINK lid="l12125" relType="DURING" eventInstanceID="ei12029" relatedToTime="t11960"/>
+  <TLINK lid="l12126" relType="DURING" eventInstanceID="ei12037" relatedToTime="t11964"/>
+  <TLINK lid="l12145" relType="DURING" eventInstanceID="ei12071" relatedToTime="t11986"/>
+  <TLINK lid="l12147" relType="AFTER" eventInstanceID="ei12075" relatedToTime="t11950"/>
+  <TLINK lid="l12160" relType="DURING_INV" eventInstanceID="ei12113" relatedToTime="t12009"/>
+</TimeML>
