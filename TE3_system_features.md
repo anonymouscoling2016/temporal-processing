@@ -4,7 +4,7 @@ The following tables summarizes the set of features used by the best systems whi
 Features for Task B (numbers correspond to the amount of systems using the specific features).
 
 
-| Feature Type | Event Detection | Event Classification | Tense | Aspect |
+| Feature Type | Event Detection | Event Classification | Event Tense | Event Aspect |
 --- | --- | --- | --- | ---|
 |Token | 4 | 3 | 3 | 3 |
 Token suffixes and affixes | 2 | 1| 1 | 1 |
